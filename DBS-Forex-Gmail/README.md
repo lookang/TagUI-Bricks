@@ -1,4 +1,4 @@
-## DBS.com & Gmail - download forex rates and email ([download template](https://github.com/aimakerspace/TagUI-Bricks/releases/download/v1.0.0/DBS-Forex-Gmail.zip))
+## DBS.com & Gmail - download forex rates and email ([can download after you forked the project-template](
 
 This automation flow gets forex rates from DBS.com and sends a csv file of the forex rates using Gmail.
 
