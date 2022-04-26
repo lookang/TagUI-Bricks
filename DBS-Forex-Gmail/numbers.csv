@@ -1,20 +1,7 @@
 Currency,Rate
-US Dollar,S$1.3993
-Euro,S$1.5922
-Sterling Pound,S$1.8088
-Australian Dollar,S$0.9149
-Canadian Dollar,S$1.0204
-New Zealand Dollar,S$0.8867
-Danish Kroner,S$0.2143
-Hong Kong Dollar,S$0.1809
-Norwegian Kroner,S$0.1474
-Swedish Kroner,S$0.1491
-Swiss Franc,S$1.5059
-Chinese Renminbi(Offshore),S$0.2024
-UAE Dirham,S$0.3885
-Turkish Lira,S$0.0000
-Japanese Yen,S$1.3460
-Thai Baht,S$4.4749
-Indonesian Rupiah,S$0.0098
-Russian Ruble,S$0.0000
-Mexican Peso,S$0.0000
+USDSGD,S$1.38
+EURSGD,S$1.49
+GBPSGD,S$1.77
+JPYSGD,S$0.01
+HKDSGD,S$0.18
+CNYSGD,S$0.21
